@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/zion-ai-contract-review/
-- 🔗 Related: [Contract Clause Sentry](https://ziontechgroup.com/contract-clause-sentry/) · [AI Legal Intelligence](https://ziontechgroup.com/ai-legal-intelligence/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [Zion AI Contract Guardian](https://ziontechgroup.com/zion-ai-contract-guardian/) · [Zion AI Contract Reviewer](https://ziontechgroup.com/zion-ai-contract-reviewer/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
